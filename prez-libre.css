@@ -1,0 +1,14 @@
+
+/* Animate slides (http://www.partage-it.com/animez-vos-presentations-remark-js/) */
+
+.title {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title h1 {
+  text-align: center;
+  margin: auto;
+}
