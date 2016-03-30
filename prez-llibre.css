@@ -1,0 +1,45 @@
+
+
+.title, .dualtitle{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title h1 {
+  text-align: center;
+  margin: auto;
+  color: blue;
+}
+
+.dualtitle h1 {
+  display: flex;
+  flex: 1;
+  text-align: center;
+  margin: auto;
+  justify-content: end;
+  flex-direction: column;
+  color: blue;
+}
+
+.dualtitle h2 {
+  text-align: center;
+  margin: auto;
+  flex: 1;
+  color: blue;
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 1em;
+}
+
+th {
+  background: #CCC;
+}

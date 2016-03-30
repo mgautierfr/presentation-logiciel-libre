@@ -2,6 +2,7 @@
 
 import http.server
 import socketserver
+import webbrowser
 
 PORT = 8000
 
@@ -10,5 +11,9 @@ Handler = http.server.SimpleHTTPRequestHandler
 httpd = socketserver.TCPServer(("", PORT), Handler)
 
 print("serving at port", PORT)
-httpd.serve_forever()
-
+webbrowser.open('http://localhost:{}/prez-llibre.html'.format(PORT))
+try:
+    httpd.serve_forever()
+except:
+    # Probably not needed, but.. anyway
+    httpd.shutdown()
