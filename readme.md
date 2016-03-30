@@ -1,7 +1,7 @@
 # Présentation du logiciel libre
 
 Ceci sont les slides d'une présentation du logiciel libre que j'ai
-effectuer le 29 mars à La Cordée.
+effectué le 29 mars à La Cordée.
 
 # Utilisation
 
