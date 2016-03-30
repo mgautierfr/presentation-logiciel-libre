@@ -8,7 +8,7 @@ effectuer le 29 mars à La Cordée.
 Cette présentation est basée sur [remarkjs](https://github.com/gnab/remark)
 
 Vous devez donc avoir un server http pour fournir les fichiers et 
-ouvrir `prez-llibre.html` dans votre navigateur.
+ouvrir `index.html` dans votre navigateur.
 
 Si vous ne savez pas comment faire, lancez juste le script serve.py dans un
 terminal :
