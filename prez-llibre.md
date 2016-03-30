@@ -11,11 +11,11 @@ class: title
 
 # Qui sommes nous ?
 
-Matthieu Gautier.  
+[Matthieu Gautier](http://mgautier.fr).  
 Développeur indépendant chez Kymeria.
 
 Clément Oudot.  
-Salarié chez Savoir-faire Linux.
+Salarié chez [Savoir-faire Linux](http://www.savoirfairelinux.com).
 
 ---
 class: title
